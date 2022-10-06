@@ -26,8 +26,8 @@ jobs:
       run: dotnet publish -c Release -o '${{ github.workspace }}/out'
     
     - name: Zip
-      run:
-        cd '${{ github.workspace }}/out'
+      run: |
+        cd ${{ github.workspace }}/out
         zip -r ${{ github.workspace }}/out.zip *
         
     - name: Deploy to AWS
