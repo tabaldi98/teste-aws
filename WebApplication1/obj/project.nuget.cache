@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hs3005eY+mtWVS+49rjPN0yw1ZBYaXVfJUJds1zFIeaN8tPE1cWwVpAW/CZqgRchkLDqNwxrRDfEfrtK+poSMw==",
+  "dgSpecHash": "V3gVoz9me5t3LEng0CiCbSGXzaTMUGgjx51697xO2yRpVNoSUT+SbLKfCg+BcR/JMaaCvhyaNP40niMlvM0AKg==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Git\\teste-aws\\teste-aws\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\Projetos\\Git\\teste-aws\\teste-aws\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Micro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Micro\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

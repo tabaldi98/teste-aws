@@ -215,11 +215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\Git\\teste-aws\\teste-aws\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\Projetos\\Git\\teste-aws\\teste-aws\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\Projetos\\Git\\teste-aws\\teste-aws\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\Projetos\\Git\\teste-aws\\teste-aws\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\Git\\teste-aws\\teste-aws\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Projetos\\Git\\teste-aws\\teste-aws\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
